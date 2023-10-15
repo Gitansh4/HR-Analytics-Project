@@ -1,9 +1,3 @@
 # HR Analytics Dash Board Project
+![image](https://github.com/Gitansh4/HR-Analytics-Project/assets/77138525/ea70d9bb-88f8-49ee-9993-bab7112141c0)
 
-![Untitled](HR%20Analytics%20Dash%20Board%20Project%20f2b75888450f4748b61d5e1b00fa4ecc/Untitled.png)
-
-![Untitled](HR%20Analytics%20Dash%20Board%20Project%20f2b75888450f4748b61d5e1b00fa4ecc/Untitled%201.png)
-
-![Untitled](HR%20Analytics%20Dash%20Board%20Project%20f2b75888450f4748b61d5e1b00fa4ecc/Untitled%202.png)
-
-![Untitled](HR%20Analytics%20Dash%20Board%20Project%20f2b75888450f4748b61d5e1b00fa4ecc/Untitled%203.png)
